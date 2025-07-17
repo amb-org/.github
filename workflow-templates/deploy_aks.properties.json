@@ -1,0 +1,13 @@
+{
+    "name": "Octodemo ACR Workflow",
+    "description": "AKS starter workflow",
+    "iconName": "icon",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
